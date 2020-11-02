@@ -2341,6 +2341,11 @@ a {
   padding-bottom: 5rem;
   background-color: #ffe161;
 }
+.cid-sfcBiP62e1 {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #ffffff;
+}
 .cid-sfcs5z28YO {
   z-index: 1000;
   width: 100%;
@@ -2748,4 +2753,22 @@ a {
   padding-top: 5rem;
   padding-bottom: 5rem;
   background-color: #ffe161;
+}
+.cid-sfcABdBTGX {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffe161;
+}
+@media (max-width: 991px) {
+  .cid-sfcABdBTGX .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-sfcABdBTGX img {
+  width: 100%;
+}
+@media (min-width: 992px) {
+  .cid-sfcABdBTGX .text-wrapper {
+    padding: 2rem;
+  }
 }
